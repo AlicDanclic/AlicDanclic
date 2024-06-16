@@ -1,0 +1,13 @@
+- 你好,这里是永生和_Alic.
+- 一个喜欢学习的年轻程序员.目前主要在进行Qt使用,时不时去学习一下别的.
+- 目前存在的项目:
+  - 导航界面 BigVing
+  - 密码管理 AlicCodeManager
+- 项目目前只有我一个人在,随缘更新.
+
+- Hello, this is Aeon and _Alic.
+- A young programmer who likes to learn. Currently working mainly on Qt, but occasionally learning something else.
+- Current projects.
+  - Navigation interface BigVing
+  - Password management AlicCodeManager
+- I'm the only one working on this project, so I'll update it as I go.
