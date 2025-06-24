@@ -1,17 +1,27 @@
-你好,这里是永生和_Alic.或者可以叫EternoPax
-一个喜欢学习的年轻程序员.目前主要在进行Qt使用,时不时去学习一下别的.
-目前存在的项目:
-- 导航界面 BigVing
-- 密码管理 AlicCodeManager
-- 个人快速上手博客[Blog](https://github.com/AlicDanclic/Blog)
-- 个人博客EternoPax(目前不公开,自己部署网站用)
-项目目前只有我一个人在,随缘更新.
+<div align=center>
+  <h1> EternoPax 永生和 </h1>
+</div>
 
-Hello, I'm Yongsheng and _Alic, also known as EternoPax.
-I'm a young programmer with a passion for learning. Currently, I'm primarily focused on using Qt, but I also explore other areas from time to time.
-Here are some of my existing projects:
-- Navigation Interface BigVing
-- Password Manager AlicCodeManager
-- Quick - start Personal [Blog](https://github.com/AlicDanclic/Blog)
-- Personal Blog EternoPax (currently private, used for self - deployment)
-At the moment, I'm the sole contributor to these projects, updating them whenever I can.
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlicDanclic&show_icons=true&theme=radical">
+</div>
+
+<div align-center>
+  <img src="./Bitmap/User.png">
+</div>
+
+<div align-center>
+  <img src="https://img.shields.io/badge/技能-硬件-yellow">
+  <img src="https://img.shields.io/badge/技能-单片机-yellow">
+  <img src="https://img.shields.io/badge/技能-软件-yellow">
+</div>
+
+<div align-center>
+  <img src="https://img.shields.io/badge/爱好-吉他-red">
+  <img src="https://img.shields.io/badge/爱好-单片机-red">
+  <img src="https://img.shields.io/badge/爱好-读书-red">
+</div>
+
+<div align=center>
+  <img src="https://profile-counter.glitch.me/AlicDanclic/count.svg">
+</div>
