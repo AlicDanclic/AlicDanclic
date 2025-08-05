@@ -26,145 +26,27 @@
   <img src="https://profile-counter.glitch.me/AlicDanclic/count.svg">
 </div>
 
-***
-<div align=center>
-  <h4> Blog </h4>
-</div>
+```python
+# 第一次上传
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:xxxxxx/xxx.git
+git push -u origin main
 
-```
-一个轻易上手的个人博客网站,可以直接下载就可以启动!
-```
+# 第一次下拉
+git init
+git branch -M main
+git remote add origin git@github.com:xxxxxx/xxx.git
+git push -u origin main
 
-> 博客 HTML CSS
-
-***
-
-***
-<div align=center>
-  <h4> Star-Fire-Cup </h4>
-</div>
-
-```
-全栈式智能小车,从PCB开始搭建一个高质量的智能小车.包含但不限于软件,3D,亚克力板等
-```
-
-> STM32 PCB 智能小车
-
-***
-
-***
-<div align=center>
-  <h4> Aurora </h4>
-</div>
-
+# 以后上传
+git add .
+git commit -m "message"
+git push origin main
 ```
 
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> Technical-studies-in-electronic-engineering </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> BigVing </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> AlicCodeManagement </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> Embedded-CodeGen </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> OLED-Page_Configurator </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> Matrix-Component-Management-System </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> Signal-and-System-MATLAB-Advanced-Experiment-Code </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
-
-***
-<div align=center>
-  <h4> STM32-HAL-Code-Complete </h4>
-</div>
-
-```
-
-```
-
-> 
-
-***
+| 项目名称       | 项目简介                          | 技术栈                                          | 项目链接         | 更新状态              | 适用场景                       |
+| ---------- | ----------------------------- | -------------------------------------------- | ------------ | ----------------- | -------------------------- |
+| ……         | ……                            | ……                                           | ……           | ……                | ……                         |
